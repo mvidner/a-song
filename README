@@ -1,0 +1,17 @@
+pull
+pull branch
+pull branch diff
+
+pull
+pull branch
+pull branch diff
+pull branch diff
+pull branch diff archive
+pull branch diff archive
+pull branch diff archive
+bisect tag fetch describe
+
+clone log blame add --interactive
+stash rebase grep push cherry-pick
+merge
+merge
